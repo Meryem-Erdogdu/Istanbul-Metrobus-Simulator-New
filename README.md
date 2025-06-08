@@ -19,3 +19,7 @@ Bu proje, Bilgisayar Ağ Sistemleri dersi kapsamında geliştirilmiştir. İstan
 
 
 ![Ekran görüntüsü 2025-06-08 210226](https://github.com/user-attachments/assets/6e4d52bf-f288-4776-a523-27d22d5b691e)
+
+‼️Tek durak seçerken: 9
+   Çoklu durak seçerken : 5,14,35
+   Çıkış için: q
